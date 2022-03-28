@@ -12,7 +12,7 @@
 ## Education:
 * 2 years of Bachelor Degree in computer science
 * FreeCodeCamp courses
-* Codewars - 6 kyu
+* [Codewars](https://www.codewars.com/users/qweered) - 5 kyu
 ## Languages:
 * English - B2
 * Russian - C2
