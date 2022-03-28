@@ -1,7 +1,7 @@
-[rsschool-cv](https://qweered.github.io/rsschool-cv/cv)
-====
-Aliaksandr Samatyia
-====
+## [rsschool-cv](https://qweered.github.io/rsschool-cv/cv)
+
+# Aliaksandr Samatyia
+
 ## Contacts:
 * **github**: @qweered
 * **telegram**: @iamcraziest
